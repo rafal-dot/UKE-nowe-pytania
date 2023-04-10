@@ -100,9 +100,13 @@ Ponadto, poniżej znajduje się lista pomocnych linków:
     [stronie UKE](https://bip.uke.gov.pl/swiadectwa-operatora-urzadzen-radiowych-tresci/swiadectwa-amatorskie,3.html),
 - Kurs i książki:
   - [Krakowski Kurs Krótkofalarski](https://www.youtube.com/watch?v=Wo2Zof96vjM&list=PLziQLnE44RtWN2jaay-1BDeQ0eAkkuuJi),
+  - "Regulamin Radiokomunikacyjny", ITU, 2016, do ściągnięcia z wielu miejsc w
+    formacie PDF. Użyj ulubionej wyszukiwarki,
+  - "Etyka i procedury operacyjne dla krótkofalowców", wydanie 2, 2008, John
+    Devoldere/ON4UN, Mark Demeulemere/ON4WW (tłum. Wiesław Wysocki/SP2DX), do
+    ściągnięcia z wielu miejsc w formacie PDF. Użyj ulubionej wyszukiwarki,
   - "Poradnik ultrakrótkofalowca", Zdzisław Bieńkowski, 1988 roku.  Książka do
-    ściągnięcia z wielu miejsc w formie PDF. Proponuję użyć swojej ulubionej
-    wyszukiwarki,
+    ściągnięcia z wielu miejsc w formie PDF. Użyj ulubionej wyszukiwarki,
   - "ABC Krótkofalowca", Krzysztof Słomczyński, 1988, WKŁ. Skan również do
     znalezienia w sieci,
 - Inne:
