@@ -123,10 +123,12 @@ Ponadto, poniżej znajduje się lista pomocnych linków:
   - Do tego na stronie ARRL są dostępne podręczniki do amerykańskiej licenji. Z
     pewnością pokrywają wiele zagadnień, które są przedmiotem egzaminu w UKE.
     Szkoda, że nie ma odpowiedników po polsku:
-    - "ARRL Ham Radio License Manual"
-    - "ARRL General Class License Manual"
-    - "ARRL Extra Class License Manual"
-    - "ARRL Operating Manual"
+    - "ARRL Ham Radio License Manual" poręcznik do amerykańskiego poziomu
+      "technician", co wydaje się odpowiednikiem polskiego świadectwa klasy A,
+    - "ARRL General Class License Manual" poręcznik do amerykańskiego poziomu
+      "general", chyba nie ma polskiego odpowiednika. Coś pomiędzy naszym A i C,
+    - "ARRL Extra Class License Manual" poręcznik do amerykańskiego poziomu
+      "ameteur extrea", co wydaje się odpowiednikiem polskiego świadectwa klasy C,
 - Inne:
   - Mój skrypt [`xlsxDiff`](https://github.com/rafal-dot/xlsxDiff/) napisany w
     Python'ie, użyty do porównania baz pytań.
