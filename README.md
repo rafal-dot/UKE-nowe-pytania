@@ -108,12 +108,13 @@ Ponadto, poniżej znajduje się lista pomocnych linków:
     ściągnięcia z wielu miejsc w formie PDF. Użyj ulubionej wyszukiwarki,
   - "ABC Krótkofalowca", Krzysztof Słomczyński, 1988, WKŁ. Skan również do
     znalezienia w sieci,
-  - ["The ARRL Handbook"](https://home.arrl.org/action/Shop/Store) w świetle w
-    zasadzie całkowitego braku literatury po polsku, dla osób zainteresowanych,
-    polecam pozycję po angielsku. Niesamowita książka, aktualizowana co roku. W
-    chwili pisania tego tekstu (2023 rok) aktualne jest 100 (słowni: setne!!!)
+  - ["The ARRL Handbook"](https://home.arrl.org/action/Shop/Store) w świetle
+    braku aktualnej literatury po polsku (eksplozja technik cyfrowych, SDR i
+    DSP, technologie satelitarne, ...), dla osób zainteresowanych, polecam
+    pozycję po angielsku.  Niesamowita książka, aktualizowana co roku. W chwili
+    pisania tego tekstu (2023 rok) aktualne jest 100 (słowni: setne!!!)
     wydanie. W zasadzie książka pokrywa wszystko, czym może być zainteresowany
-    radioamator. Jeśli przy zakupie wersji papierowej odstraszą Was koszty
+    radioamator.  Jeśli przy zakupie wersji papierowej odstraszą Was koszty
     wysyłki ze sklepu ARRL w USA, to można dokonać zakupu na Amazon i - po
     okazaniu dowodu zakupu przemiłej Pani z ARRL - zostanie Wam udostępniona
     również wersja elektroniczna,
