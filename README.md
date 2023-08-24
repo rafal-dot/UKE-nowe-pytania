@@ -8,9 +8,8 @@ pogłębić, aby dobrze samodzielnie przygotować się do egzaminu.
 # WPROWADZENIE
 
 W ostatnim czasie pojawiła się przygotowana przez Krakowski Kurs Krótkofalarski
-propozycja
-["nowych" pytań](https://hackerspacekrk.github.io/pytania-egzaminacyjne/) na
-egzaminy na świadectwa klas A i C operatora urządzeń radiowych w służbie
+[propozycja "nowych" pytań](https://hackerspacekrk.github.io/pytania-egzaminacyjne/)
+na egzaminy na świadectwa klas A i C operatora urządzeń radiowych w służbie
 radiokomunikacyjnej amatorskiej przeprowadzanym przez Urząd Komunikacji
 Elektronicznej (UKE).
 
@@ -101,7 +100,7 @@ Ponadto, poniżej znajduje się lista pomocnych linków:
 - Kurs i książki:
   - [Krakowski Kurs Krótkofalarski](https://www.youtube.com/watch?v=Wo2Zof96vjM&list=PLziQLnE44RtWN2jaay-1BDeQ0eAkkuuJi),
   - "Regulamin Radiokomunikacyjny", ITU, 2016, do ściągnięcia z wielu miejsc w
-    formacie PDF. Użyj ulubionej wyszukiwarki,
+    formacie PDF (w tym już po polsku). Użyj ulubionej wyszukiwarki,
   - "Etyka i procedury operacyjne dla krótkofalowców", wydanie 2, 2008, John
     Devoldere/ON4UN, Mark Demeulemere/ON4WW (tłum. Wiesław Wysocki/SP2DX), do
     ściągnięcia z wielu miejsc w formacie PDF. Użyj ulubionej wyszukiwarki,
@@ -109,6 +108,41 @@ Ponadto, poniżej znajduje się lista pomocnych linków:
     ściągnięcia z wielu miejsc w formie PDF. Użyj ulubionej wyszukiwarki,
   - "ABC Krótkofalowca", Krzysztof Słomczyński, 1988, WKŁ. Skan również do
     znalezienia w sieci,
+  - ["The ARRL Handbook"](https://home.arrl.org/action/Shop/Store) w świetle w
+    zasadzie całkowitego braku literatury po polsku, dla osób zainteresowanych,
+    polecam pozycję po angielsku. Niesamowita książka, aktualizowana co roku. W
+    chwili pisania tego tekstu (2023 rok) aktualne jest 100 (słowni: setne!!!)
+    wydanie. W zasadzie książka pokrywa wszystko, czym może być zainteresowany
+    radioamator. Jeśli przy zakupie wersji papierowej odstraszą Was koszty
+    wysyłki ze sklepu ARRL w USA, to można dokonać zakupu na Amazon i - po
+    okazaniu dowodu zakupu przemiłej Pani z ARRL - zostanie Wam udostępniona
+    również wersja elektroniczna,
+  - ["The ARRL Antenna Book"](https://home.arrl.org/action/Shop/Store) jeśli po
+    "The ARRL Handbook" czujesz niedosyt w zakresie anten, to można jeszcze
+    spróbować bardziej zgłębić temat (wersja elektroniczna jak wyżej),
+  - Do tego na stronie ARRL są dostępne podręczniki do amerykańskiej licenji. Z
+    pewnością pokrywają wiele zagadnień, które są przedmiotem egzaminu w UKE.
+    Szkoda, że nie ma odpowiedników po polsku:
+    - "ARRL Ham Radio License Manual"
+    - "ARRL General Class License Manual"
+    - "ARRL Extra Class License Manual"
+    - "ARRL Operating Manual"
 - Inne:
   - Mój skrypt [`xlsxDiff`](https://github.com/rafal-dot/xlsxDiff/) napisany w
     Python'ie, użyty do porównania baz pytań.
+
+# LICENCJA
+
+Copyright (C) 2020-2023 [Rafał Czeczótka](mailto:rafal dot czeczotka at gmail dot com) SP5RFL
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU Affero General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option) any
+later version.
+
+This program is distributed in the hope that it will be useful, WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License along
+with this program. If not, see [https://www.gnu.org/licenses/].
