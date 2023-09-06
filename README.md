@@ -33,8 +33,8 @@ się do egzaminu.
 
 Podstawowa zawartość znajduje się w pliku
 [`UKE_porownanie_pytan.xlsx`](UKE_porownanie_pytan.xlsx). Zawiera on porównanie
-"starych" pytań z bazy UKE z propozycją nowych pytań. Najbardziej istotnymi
-zakładkami są zakładki zaczynające się od słowa `porownanie ...`:
+"starych" pytań z bazy UKE z propozycją nowych pytań. Najbardziej istotną
+zakładką jest zakładka `porownanie`:
 
 ![Wizualizacja zmian](images/zaznaczone_zmiany.png)
 
@@ -60,14 +60,14 @@ Ponadto w pliku są jeszcze 3 inne zakładki:
 - `nowe` - zakładka z bazą "nowych" pytań. W pierwszej kolumnie jest
   identyfikator pytania stworzony za pomocą numeru rozdziału oraz
   identyfikatora z oryginalnego zbioru,
-- `stare...` - zakładki z bazą "starych" pytań. W pierwszej kolumnie
-  znajdują się analogiczne identifkatory, jak w poprzedniej zakładce.
+- `stare` - zakładka z bazą "starych" pytań. W pierwszej kolumnie znajdują się
+  analogiczne identifkatory, jak w poprzedniej zakładce.
 
-Ponieważ porównanie jest przeprowadzne znak po znaku - a często komórki różnią
-się spacją lub innym pojedynczym znakiem - aby ułatwić identyfikację
-różnic merytorycznych, dodano zakładki z rozszerzeniem "... bez literowek".
-W zakładkach tych usunięto literówki, więc porównanie dotyczy przede wszystkim
-różnic merytorycznych.
+Ponieważ porównanie jest przeprowadzne znak po znaku - a często oryginalne
+komórki różniły się spacją lub innym pojedynczym znakiem - aby ułatwić
+identyfikację różnic merytorycznych, dane w zakładce `stare` zostały
+wyczyszczone.  Usunięto literówki, więc porównanie skupia się na różnicach
+merytorycznych.
 
 # JAK ŚCIĄGNĄĆ PLIK
 
