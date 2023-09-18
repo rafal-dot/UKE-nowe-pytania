@@ -95,13 +95,13 @@ GitHub](https://github.com/rafal-dot/UKE-nowe-pytania)
 Ponadto, poniżej znajduje się lista pomocnych linków:
 - Bazy pytań:
   - Pytania znajdujące się na
-    [stronie UKE](https://bip.uke.gov.pl/swiadectwa-operatora-urzadzen-radiowych-tresci/swiadectwa-amatorskie,3.html),
+    [stronie UKE](https://bip.uke.gov.pl/swiadectwa-operatora-urzadzen-radiowych-tresci/swiadectwa-amatorskie,3.html)
+	(pytania znajdują się w zakładce `nowe` pliku Excel),
   - Oryginalna propozycja nowej bazy pytań przygotowanej przez [Krakowski Kurs
-    Krótkofalarski](https://hackerspacekrk.github.io/pytania-egzaminacyjne/)
-    (pytania znajdują się w zakładce `new` pliku Excel),
+    Krótkofalarski](https://hackerspacekrk.github.io/pytania-egzaminacyjne/),
   - Pytania - z odpowiedziami - ze strony [Wirtualnego Egzaminu
     Krótkofalarskiego](http://www.egzaminkf.pl/infusions/test_examination/pytaniaA.php)
-    (pytania znajdują się w zakładce `old` pliku Excel),
+    (pytania znajdują się w zakładce `stare` pliku Excel),
   - Alternatywny [test wiedzy](https://test.sp6dlv.pl/) przygotowany przez
     SP6DLV,
 - Kurs i książki:
