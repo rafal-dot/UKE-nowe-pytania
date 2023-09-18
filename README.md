@@ -1,15 +1,14 @@
-# Egzamin na świadectwo amatorskie UKE: "nowe" a "stare" pytania
+# Świadectwo amatorskie UKE: oficjalne "nowe" a oficjalne "stare" pytania
 
-W ciągu ostatnich kilku miesięcy (kwiecień 2023) pojawiła się "nowa" baza pytań
-na egzamin w UKE na amatorskie świadectwa operatora urządzeń radiowych.
-Niniejsza strona powstała po to, aby ułatwić identyfikację wiedzy, którą należy
-pogłębić, aby dobrze samodzielnie przygotować się do egzaminu.
+W ostatnich dniach (wrzesień 2023) oficjalnie na stronie UKE pojawiła się
+"nowa" baza pytań na egzamin na amatorskie świadectwo operatora urządzeń
+radiowych.  Niniejsza strona powstała po to, aby ułatwić identyfikację wiedzy,
+którą należy pogłębić, aby dobrze samodzielnie przygotować się do egzaminu.
 
 # WPROWADZENIE
 
-W ostatnim czasie pojawiła się przygotowana przez Krakowski Kurs Krótkofalarski
-[propozycja "nowych" pytań](https://hackerspacekrk.github.io/pytania-egzaminacyjne/)
-na egzaminy na świadectwa klas A i C operatora urządzeń radiowych w służbie
+W ostatnich dniach pojawiła się na stronach UKE baza pytań na egzaminy na
+świadectwa klas A i C operatora urządzeń radiowych w służbie
 radiokomunikacyjnej amatorskiej przeprowadzanym przez Urząd Komunikacji
 Elektronicznej (UKE).
 
@@ -17,7 +16,7 @@ Elektronicznej (UKE).
 materiałów pomocniczych oraz gotowe zestawy z odpowiedziami (patrz sekcja z
 przydatnymi łączami pod koniec pliku). Znacznie ułatwia to samodzielną naukę.
 
-Baza "nowych" pytań składa się z ponad 500 pozycji. Łatwo zauważyć, że sporą
+Baza "nowych" pytań składa się z ponad 520 pozycji. Łatwo zauważyć, że sporą
 jej część stanowią pytania występujące już w "starym" zbiorze, ewentualnie z
 nieznacznie zmodyfikowaną treścią. Część pozycji usunięto. Biorąc pod uwagę
 postęp technologiczny oraz mało nowoczesne podejście do niektórych zagadnień w
@@ -33,18 +32,18 @@ się do egzaminu.
 
 Podstawowa zawartość znajduje się w pliku
 [`UKE_porownanie_pytan.xlsx`](UKE_porownanie_pytan.xlsx). Zawiera on porównanie
-"starych" pytań z bazy UKE z propozycją nowych pytań. Najbardziej istotną
-zakładką jest zakładka `porownanie`:
+"starych" pytań z nowymi pytaniami z bazy UKE. Najbardziej istotną zakładką
+jest zakładka `porownanie`:
 
 ![Wizualizacja zmian](images/zaznaczone_zmiany.png)
 
-W dwóch pierwszych kolumnach `A` i `B` znajdują się:
+W dwóch pierwszych kolumnach `B` i `C` znajdują się:
 - w wypadku pytań niezmienionych lub lekko zmodyfikowanych, odpowiednie
-  identyfikatory ze "starego" (kolumna `B`) i "nowego" (kolumna `A`) zbioru
+  identyfikatory ze "starego" (kolumna `C`) i "nowego" (kolumna `B`) zbioru
   pytań,
-- w wypadku pytań dodanych, w kolumnie `A` znajduje się identyfikator nowego
-  pytania, zaś kolumna `B` jest pusta,
-- w wypadku pytań usuniętych, kolumna `A` jest pusta, zaś w kolumnie `B`
+- w wypadku pytań dodanych, w kolumnie `B` znajduje się identyfikator nowego
+  pytania, zaś kolumna `C` jest pusta,
+- w wypadku pytań usuniętych, kolumna `C` jest pusta, zaś w kolumnie `C`
   znajduje się identyfikator starego pytania.
 
 Zmiany w treści pytań zostały tutaj oznaczone następująco:
@@ -54,6 +53,9 @@ Zmiany w treści pytań zostały tutaj oznaczone następująco:
   przekreślone~~</span>,
 - fragmenty niezmienione są zaznaczone czarną czcionką,
 - całe niezmodyfikowane komórki mają szare tło.
+
+Dodatkow w kolumnie `K` wyróżniono różnymi kolorami pozycje `bez zmian`,
+`nowe`, `usunięte` oraz `zmienione`.
 
 Ponadto w pliku są jeszcze 3 inne zakładki:
 - `TYTUL` - zakładka tytułowa wraz z podstawowym opisem,
@@ -65,9 +67,8 @@ Ponadto w pliku są jeszcze 3 inne zakładki:
 
 Ponieważ porównanie jest przeprowadzne znak po znaku - a często oryginalne
 komórki różniły się spacją lub innym pojedynczym znakiem - aby ułatwić
-identyfikację różnic merytorycznych, dane w zakładce `stare` zostały
-wyczyszczone.  Usunięto literówki, więc porównanie skupia się na różnicach
-merytorycznych.
+identyfikację różnic merytorycznych, dane zostały wyczyszczone.  Usunięto
+literówki, więc porównanie skupia się na różnicach merytorycznych.
 
 # JAK ŚCIĄGNĄĆ PLIK
 
@@ -93,7 +94,9 @@ GitHub](https://github.com/rafal-dot/UKE-nowe-pytania)
 
 Ponadto, poniżej znajduje się lista pomocnych linków:
 - Bazy pytań:
-  - Propozycja nowej bazy pytań przygotowanej przez [Krakowski Kurs
+  - Pytania znajdujące się na
+    [stronie UKE](https://bip.uke.gov.pl/swiadectwa-operatora-urzadzen-radiowych-tresci/swiadectwa-amatorskie,3.html),
+  - Oryginalna propozycja nowej bazy pytań przygotowanej przez [Krakowski Kurs
     Krótkofalarski](https://hackerspacekrk.github.io/pytania-egzaminacyjne/)
     (pytania znajdują się w zakładce `new` pliku Excel),
   - Pytania - z odpowiedziami - ze strony [Wirtualnego Egzaminu
@@ -101,8 +104,6 @@ Ponadto, poniżej znajduje się lista pomocnych linków:
     (pytania znajdują się w zakładce `old` pliku Excel),
   - Alternatywny [test wiedzy](https://test.sp6dlv.pl/) przygotowany przez
     SP6DLV,
-  - Pytania znajdujące się na
-    [stronie UKE](https://bip.uke.gov.pl/swiadectwa-operatora-urzadzen-radiowych-tresci/swiadectwa-amatorskie,3.html),
 - Kurs i książki:
   - [Krakowski Kurs Krótkofalarski](https://www.youtube.com/watch?v=Wo2Zof96vjM&list=PLziQLnE44RtWN2jaay-1BDeQ0eAkkuuJi),
   - "Regulamin Radiokomunikacyjny", ITU, 2016, do ściągnięcia z wielu miejsc w
