@@ -54,8 +54,21 @@ Zmiany w treści pytań zostały tutaj oznaczone następująco:
 - fragmenty niezmienione są zaznaczone czarną czcionką,
 - całe niezmodyfikowane komórki mają szare tło.
 
-Dodatkow w kolumnie `K` wyróżniono różnymi kolorami pozycje `bez zmian`,
-`nowe`, `usunięte` oraz `zmienione`.
+Dodatkowo w kolumnie `K` wyróżniono różnymi kolorami pozycje `bez zmian`,
+`nowe`, `usunięte` oraz `zmienione`. Podczas porównywania przyjąłem następujące
+założenia:
+- jeśli pytanie jest podobne w treści, jednak ma zupełnie odwrotne znaczenie -
+  np. pytanie zmieniono z "***najmniejsza*** *oporność*" na "***największa***
+  *oporność*" - to potraktowałem to jako zupełnie nowe pytanie, czyli stare
+  zostało usunięte a nowe dodane,
+- jeśli pytanie zostało przeredagowane, jednak co do merytorycznej treści
+  pozostało takie samo, to uznałem, że to jest to samo pytanie, tylko ze
+  zmienioną treścią. Ponieważ czasem oznacza to wiele zmian w tekście, taka treść
+  może okazać się nieczytelna. Zalecam wówczas, używając kolumn `B` i `C` z
+  indeksami sięgnięcie do oryginalnych treści w odpowiednich zakładkach `nowe` i
+  `stare`,
+- drobne różnice - np. zmiana skrótów jednostek na greckie litery czy też drobne
+  literówki - starałem się modyfikować tak, aby nie były one widoczne jako zmiany.
 
 Ponadto w pliku są jeszcze 3 inne zakładki:
 - `TYTUL` - zakładka tytułowa wraz z podstawowym opisem,
@@ -63,12 +76,52 @@ Ponadto w pliku są jeszcze 3 inne zakładki:
   identyfikator pytania stworzony za pomocą numeru rozdziału oraz
   identyfikatora z oryginalnego zbioru,
 - `stare` - zakładka z bazą "starych" pytań. W pierwszej kolumnie znajdują się
-  analogiczne identifkatory, jak w poprzedniej zakładce.
+  analogiczne identyfikatory, jak w poprzedniej zakładce.
 
-Ponieważ porównanie jest przeprowadzne znak po znaku - a często oryginalne
+Ponieważ porównanie jest przeprowadzone znak po znaku - a często oryginalne
 komórki różniły się spacją lub innym pojedynczym znakiem - aby ułatwić
 identyfikację różnic merytorycznych, dane zostały wyczyszczone.  Usunięto
 literówki, więc porównanie skupia się na różnicach merytorycznych.
+
+# CHCESZ POMÓC W ROZWIJANIU TEJ BAZY? PROSZĘ BARDZO :-)
+
+Wszyscy jesteśmy ludźmi i pomimo tego, że starałem się jak najlepiej przygotować
+ten materiał, to mogą pojawiać się błędy. Jeśli zauważysz cokolwiek, nie wahaj
+się skontaktować (mój adres email znajdziesz pod koniec tego pliku). Wszelkie
+zgłoszenia postaram się jak najszybciej zweryfikować i ewentualnie poprawić.
+Pamiętaj jednak, że nie jestem ekspertem w tematyce radioamatorskiej a po
+prostu takim jak ty amatorem, które starając się ze zrozumieniem przygotować do
+egzaminu, zaczął bardziej szczegółowo analizować pytania i przygotowywać sobie
+pomoce, które później zdecydowałem się udostępnić.  Pamiętaj też, że to jest
+moje hobby a na co dzień zajmuję się zupełnie inną tematyką i czasem mogę nie
+mieć czasu na natychmiastową reakcję :-)
+
+Podczas przygotowywanie się do egzaminu, zauważyłem, że dostępnych jest kilka
+stron z pytaniami i odpowiedziami, jednak - poza kursem kolegów z Krakowa -
+brakuje materiałów, które umożliwiałyby zrozumienie odpowiedzi na pytania. Aby
+tutaj pomóc dodałem kolumnę `uzasadnienie`. Ponieważ jest tam niewiele pozycji,
+byłbym zobowiązany za dostarczenie treści, może uda się ten materiał rozbudować
+w taki sposób, że będzie on jeszcze bardziej przydatny.
+
+## MATERIAŁY Z ARRL
+
+Dla osób głębiej zainteresowanym tematem polecam materiały opracowane przez
+kolegów z [ARRL](https://www.arrl.org/). Są one dość często uaktualnianie
+(część corocznie) i ich jakość jest dla mnie po prostu znakomita. Wiele z nich
+można zakupić zarówno w wersji elektronicznej jak i papierowej. Dodatkowo
+kupując wersję papierową często otrzymuje się "w pakiecie" wersję PDF za
+darmo(1). Przepuszczałem te pliki przez darmowe automatyczne systemy do
+tłumaczenia i jakość była zaskakująco czytelna (choć trzeba pamiętać, że rozmiar
+pojedynczych rozdziałów może przekraczać limit 10MB akceptowalny przez
+tłumacza).
+
+Trzeba tu jednak zaznaczyć, że studiując powyższe materiały trzeba pamiętać, że
+szczegółowe regulacje - np. dotyczące BHP, zakresów częstotliwości, mocy czy
+modulacji - mogą różnić się od tych obowiązujących w Polsce.
+
+(1) O czym miałem okazję przekonać się osobiście, dotyczy to również wersji
+papierowej zakupionej nie bezpośrednie ze sklepu ARRL ale np. z "dominującej na
+świecie platformy e-commerce", gdzie koszty przesyłki były znacząco niższe.
 
 # JAK ŚCIĄGNĄĆ PLIK
 
@@ -128,14 +181,14 @@ Ponadto, poniżej znajduje się lista pomocnych linków:
   - ["The ARRL Antenna Book"](https://home.arrl.org/action/Shop/Store) jeśli po
     "The ARRL Handbook" czujesz niedosyt w zakresie anten, to można jeszcze
     spróbować bardziej zgłębić temat (wersja elektroniczna jak wyżej),
-  - Do tego na stronie ARRL są dostępne podręczniki do amerykańskiej licenji. Z
+  - Do tego na stronie ARRL są dostępne podręczniki do amerykańskiej licencji. Z
     pewnością pokrywają wiele zagadnień, które są przedmiotem egzaminu w UKE.
     Szkoda, że nie ma odpowiedników po polsku:
-    - "ARRL Ham Radio License Manual" poręcznik do amerykańskiego poziomu
+    - "ARRL Ham Radio License Manual" podręcznik do amerykańskiego poziomu
       "technician", co wydaje się odpowiednikiem polskiego świadectwa klasy A,
-    - "ARRL General Class License Manual" poręcznik do amerykańskiego poziomu
+    - "ARRL General Class License Manual" podręcznik do amerykańskiego poziomu
       "general", chyba nie ma polskiego odpowiednika. Coś pomiędzy naszym A i C,
-    - "ARRL Extra Class License Manual" poręcznik do amerykańskiego poziomu
+    - "ARRL Extra Class License Manual" podręcznik do amerykańskiego poziomu
       "ameteur extrea", co wydaje się odpowiednikiem polskiego świadectwa klasy C,
 - Inne:
   - Mój skrypt [`xlsxDiff`](https://github.com/rafal-dot/xlsxDiff/) napisany w
