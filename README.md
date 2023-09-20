@@ -1,9 +1,12 @@
-# Świadectwo amatorskie UKE: oficjalne "nowe" a oficjalne "stare" pytania
+# Świadectwo amatorskie UKE: pełne porównanie "nowych" (2023) i "starych" pytań
 
 W ostatnich dniach (wrzesień 2023) oficjalnie na stronie UKE pojawiła się
 "nowa" baza pytań na egzamin na amatorskie świadectwo operatora urządzeń
 radiowych.  Niniejsza strona powstała po to, aby ułatwić identyfikację wiedzy,
 którą należy pogłębić, aby dobrze samodzielnie przygotować się do egzaminu.
+Dostępny plik excel zawiera pełne porównanie pytań, z zaznaczeniem pytań
+niezmienionych, dodanych, usuniętych oraz - w wypadku pytań zmodyfikowanych -
+pełną wizualizację zmian w ich treści.
 
 # WPROWADZENIE
 
