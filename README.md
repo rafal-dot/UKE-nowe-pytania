@@ -1,12 +1,12 @@
 # Świadectwo amatorskie UKE: pełne porównanie "nowych" (2023) i "starych" pytań
 
-W ostatnich dniach (wrzesień 2023) oficjalnie na stronie UKE pojawiła się
+W ostatnich dniach (wrzesień 2023) na stronie UKE pojawiła się oficjalnie
 "nowa" baza pytań na egzamin na amatorskie świadectwo operatora urządzeń
-radiowych.  Niniejsza strona powstała po to, aby ułatwić identyfikację wiedzy,
-którą należy pogłębić, aby dobrze samodzielnie przygotować się do egzaminu.
-Dostępny plik excel zawiera pełne porównanie pytań, z zaznaczeniem pytań
-niezmienionych, dodanych, usuniętych oraz - w wypadku pytań zmodyfikowanych -
-pełną wizualizację zmian w ich treści.
+radiowych. Do starej bazy stworzono wiele materiałów. Niniejsza strona powstała
+po to, aby ułatwić identyfikację wiedzy, którą należy pogłębić, aby dobrze
+samodzielnie przygotować się do egzaminu.  Dostępny plik excel zawiera pełne
+porównanie pytań, z zaznaczeniem pytań niezmienionych, dodanych, usuniętych
+oraz - w wypadku pytań zmodyfikowanych - pełną wizualizację zmian w ich treści.
 
 # WPROWADZENIE
 
@@ -19,17 +19,20 @@ Elektronicznej (UKE).
 materiałów pomocniczych oraz gotowe zestawy z odpowiedziami (patrz sekcja z
 przydatnymi łączami pod koniec pliku). Znacznie ułatwia to samodzielną naukę.
 
-Baza "nowych" pytań składa się z ponad 520 pozycji. Łatwo zauważyć, że sporą
-jej część stanowią pytania występujące już w "starym" zbiorze, ewentualnie z
-nieznacznie zmodyfikowaną treścią. Część pozycji usunięto. Biorąc pod uwagę
-postęp technologiczny oraz mało nowoczesne podejście do niektórych zagadnień w
+Baza "nowych" pytań składa się z ponad 500 pozycji. Łatwo zauważyć, że sporą
+jej część stanowią pytania występujące już w "starym" zbiorze (około 180),
+ewentualnie z nieznacznie zmodyfikowaną treścią (około 110). Część pozycji
+usunięto (około 150). Dodano około 220 pytań. Biorąc pod uwagę postęp
+technologiczny oraz mało nowoczesne podejście do niektórych zagadnień w
 "starym" zbiorze, zmiany te wydają się jak najbardziej zasadne. Jednak ich
-identyfikacja w tak dużym zbiorze jest dość utrudniona.
+identyfikacja w tak dużym zbiorze jest utrudniona.
 
 Wobec braku materiałów, które pokrywałby nowe zagadnienia w stopniu podobnym do
-"starej" bazy, stworzyłem niniejszy zbiór. W moim przekonaniu ułatwi to
-identyfikację różnic, co ułatwia lepsze opanowanie materiału i przegotowanie
-się do egzaminu.
+"starej" bazy, stworzyłem dla siebie niniejszy zbiór. Mi ten plik bardzo
+ułatwił lepsze opanowanie materiału i przegotowanie do egzaminu, więc może
+przyda się też innym. Uznałem, że nadaje się on do udostępnienia. Jeśli ten
+materiał był dla Ciebie przydatny, to będzie mi bardzo miło, jak dasz znać, że
+moja praca była dla Ciebie użyteczna :-)
 
 # ZAWARTOŚĆ PLIKU `UKE_porownanie_pytan.xlsx`
 
@@ -108,23 +111,42 @@ w taki sposób, że będzie on jeszcze bardziej przydatny.
 
 ## MATERIAŁY Z ARRL
 
-Dla osób głębiej zainteresowanym tematem polecam materiały opracowane przez
-kolegów z [ARRL](https://www.arrl.org/). Są one dość często uaktualnianie
-(część corocznie) i ich jakość jest dla mnie po prostu znakomita. Wiele z nich
-można zakupić zarówno w wersji elektronicznej jak i papierowej. Dodatkowo
-kupując wersję papierową często otrzymuje się "w pakiecie" wersję PDF za
-darmo(1). Przepuszczałem te pliki przez darmowe automatyczne systemy do
-tłumaczenia i jakość była zaskakująco czytelna (choć trzeba pamiętać, że rozmiar
-pojedynczych rozdziałów może przekraczać limit 10MB akceptowalny przez
-tłumacza).
+Przygotowując się do mojego egzaminu, dość intensywnie poszukiwałem aktualnej
+książki w języku polskim, którą mógłbym się wesprzeć. Niestety, nie udało mi
+się zidentyfikować takiej pozycji. Najnowsze kompleksowe opracowania po polsku
+są dostępne jedynie w postaci skanów PDF. Niestety są one datowane na końcówkę
+lat 80-tych. Ponieważ w ciąg ponad 30 lat "trochę się zmieniło" - co zresztą
+odzwierciedlają pytania egzaminacyjne - skazany byłem na samodzielne
+studiowanie przeróżnych źródeł informacji (na marginesie, chyba mi to wyszło na
+dobre ;-). Niestety, jak powszechnie wiadomo, jakość materiałó dostępnych w
+internecie jest różna. Od pozycji bardzo dobrych, do ...  no powiedzmy, takich
+sobie.
 
-Trzeba tu jednak zaznaczyć, że studiując powyższe materiały trzeba pamiętać, że
-szczegółowe regulacje - np. dotyczące BHP, zakresów częstotliwości, mocy czy
-modulacji - mogą różnić się od tych obowiązujących w Polsce.
+W związku z powyższym pozwalam sobie polecić księgarnię kolegów z
+[ARRL](https://www.arrl.org/), która zawiera całą masę interesujących pozycji
+(patrz też sekcja z linkami poniżej). Niestety, dotarłem do tego źródła już po
+egzaminie, ale może dla kogoś to będzie pomocne. Wiele pozycji jest regularnie
+uaktualniania - część corocznie - a ich jakość jest moim zdaniem po prostu
+znakomita. Wiele z nich można zakupić zarówno w wersji elektronicznej jak i
+papierowej. Dodatkowo kupując wersję papierową często otrzymuje się za darmo "w
+pakiecie" wersję podzieloną na wiele plików PDF(1).  "Przepuszczałem" te pliki
+przez darmowe automatyczne systemy do tłumaczenia i efektu były zaskakująco
+dobre. Trzeba jednak pamiętać, że rozmiar pojedynczych rozdziałów może
+przekraczać limitu 10MB akceptowalny przez "tłumacza", co niestety dotyczy
+pojedynczych plików(2).
+
+Studiując powyższe materiały trzeba też pamiętać, że wiele szczegółowych
+regulacji - np. dotyczących BHP, standardów branżowych czy też bandplanu - mogą
+różnić się od tych obowiązujących w Polsce.
 
 (1) O czym miałem okazję przekonać się osobiście, dotyczy to również wersji
 papierowej zakupionej nie bezpośrednie ze sklepu ARRL ale np. z "dominującej na
 świecie platformy e-commerce", gdzie koszty przesyłki były znacząco niższe.
+
+(2) Obiektywnie trzeba przyznać, że łatwość i jakość automatycznych tłumaczeń
+pewnie też jest istotnym powodem, dla którego nikt nie jest skłonny inwestować
+pieniędzy w projekt tłumaczenia wąskich branżowych książek dla garstki
+zakręconych ludzi, jaką niewątpliwie są radioamatorzy.
 
 # JAK ŚCIĄGNĄĆ PLIK
 
