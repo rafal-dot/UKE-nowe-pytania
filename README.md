@@ -31,8 +31,8 @@ Wobec braku materiałów, które pokrywałby nowe zagadnienia w stopniu podobnym
 "starej" bazy, stworzyłem dla siebie niniejszy zbiór. Mi ten plik bardzo
 ułatwił lepsze opanowanie materiału i przegotowanie do egzaminu, więc może
 przyda się też innym. Uznałem, że nadaje się on do udostępnienia. Jeśli ten
-materiał był dla Ciebie przydatny, to będzie mi bardzo miło, jak dasz znać, że
-moja praca była dla Ciebie użyteczna :-)
+materiał okazał się przydatny, to będzie mi bardzo miło, jak dasz znać, że moja
+praca była dla Ciebie użyteczna :-)
 
 # ZAWARTOŚĆ PLIKU `UKE_porownanie_pytan.xlsx`
 
