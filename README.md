@@ -19,13 +19,14 @@ Elektronicznej (UKE).
 materiałów pomocniczych oraz gotowe zestawy z odpowiedziami (patrz sekcja z
 przydatnymi łączami pod koniec pliku). Znacznie ułatwia to samodzielną naukę.
 
-Baza "nowych" pytań składa się z ponad 500 pozycji. Łatwo zauważyć, że sporą
-jej część stanowią pytania występujące już w "starym" zbiorze (około 180),
-ewentualnie z nieznacznie zmodyfikowaną treścią (około 110). Część pozycji
-usunięto (około 150). Dodano około 220 pytań. Biorąc pod uwagę postęp
-technologiczny oraz mało nowoczesne podejście do niektórych zagadnień w
-"starym" zbiorze, zmiany te wydają się jak najbardziej zasadne. Jednak ich
-identyfikacja w tak dużym zbiorze jest utrudniona.
+Baza "nowych" pytań składa się z ponad 500 pozycji dla świadectwa klasy A i
+około 380 w klasie C. Łatwo zauważyć, że sporą jej część stanowią pytania
+występujące już w "starym" zbiorze (około 180/A i 140/C), ewentualnie z
+nieznacznie zmodyfikowaną treścią (około 110/A i 90/B). Część pozycji usunięto
+(około 150/A i 60/C). Dodano około 220 pytań w klasie A i 140 w C. Biorąc pod
+uwagę postęp technologiczny oraz mało nowoczesne podejście do niektórych
+zagadnień w "starym" zbiorze, zmiany te wydają się jak najbardziej zasadne.
+Jednak ich identyfikacja w tak dużym zbiorze jest utrudniona.
 
 Wobec braku materiałów, które pokrywałby nowe zagadnienia w stopniu podobnym do
 "starej" bazy, stworzyłem dla siebie niniejszy zbiór. Mi ten plik bardzo
@@ -76,6 +77,15 @@ założenia:
 - drobne różnice - np. zmiana skrótów jednostek na greckie litery czy też drobne
   literówki - starałem się modyfikować tak, aby nie były one widoczne jako zmiany.
 
+Dodałem kolumny `L`, `M`, `N` i `O`, które umożliwiają wybranie pytań wyłącznie
+na świadectwo klasy A lub C. Kolumny `N` i `O` odsyłają do kolumny `A`
+odpowiednio w zakładkach `nowe` i `stare`. Warto zauważyć, że początek
+identyfikatora pytania wskazuje na przedmiot, którego on dotyczy:
+- `d1-` - radiotechnika,
+- `d2-` - BHP,
+- `d3-` - procedury i zwyczaje operatorskie,
+- `d4-` - przepisy dotyczące radiokomunikacyjnej służby amatorskiej.
+
 Ponadto w pliku są jeszcze 3 inne zakładki:
 - `TYTUL` - zakładka tytułowa wraz z podstawowym opisem,
 - `nowe` - zakładka z bazą "nowych" pytań. W pierwszej kolumnie jest
@@ -88,6 +98,13 @@ Ponieważ porównanie jest przeprowadzone znak po znaku - a często oryginalne
 komórki różniły się spacją lub innym pojedynczym znakiem - aby ułatwić
 identyfikację różnic merytorycznych, dane zostały wyczyszczone.  Usunięto
 literówki, więc porównanie skupia się na różnicach merytorycznych.
+
+# INTERESUJE MNIE TYLKO ŚWIADECTWO KLASY C, CO MAM ZROBIĆ?
+
+Jeśli zdajesz egzamin na świadectwo klasy C i tylko na tych pytaniach chcesz
+się skupić, to w zakładce `porownanie` powinieneś w kolumnie `M` włączyć filtr,
+który pokazuje wyłącznie wiersze, w których w tej kolumnie jest litera `C`.
+Wówczas nie będą widoczne pytania które dotyczą świadectwa klasy A.
 
 # CHCESZ POMÓC W ROZWIJANIU TEJ BAZY? PROSZĘ BARDZO :-)
 
