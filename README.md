@@ -31,9 +31,7 @@ Jednak ich identyfikacja w tak dużym zbiorze jest utrudniona.
 Wobec braku materiałów, które pokrywałby nowe zagadnienia w stopniu podobnym do
 "starej" bazy, stworzyłem dla siebie niniejszy zbiór. Mi ten plik bardzo
 ułatwił lepsze opanowanie materiału i przegotowanie do egzaminu, więc może
-przyda się też innym. Uznałem, że nadaje się on do udostępnienia. Jeśli ten
-materiał okazał się przydatny, to będzie mi bardzo miło, jak dasz znać, że moja
-praca była dla Ciebie użyteczna :-)
+przyda się też innym.
 
 # ZAWARTOŚĆ PLIKU `UKE_porownanie_pytan.xlsx`
 
