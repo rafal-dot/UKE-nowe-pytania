@@ -236,7 +236,7 @@ Ponadto, poniżej znajduje się lista pomocnych linków:
 
 # LICENCJA
 
-Copyright (C) 2020-2023 [Rafał Czeczótka](mailto:rafal dot czeczotka at gmail dot com) SP5RFL
+Copyright (C) 2020-2023 [Rafał Czeczótka](mailto:rafal dot czeczotka at gmail dot com)
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU Affero General Public License as published by the Free
